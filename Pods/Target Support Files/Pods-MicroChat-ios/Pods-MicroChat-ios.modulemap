@@ -1,0 +1,6 @@
+framework module Pods_MicroChat_ios {
+  umbrella header "Pods-MicroChat-ios-umbrella.h"
+
+  export *
+  module * { export * }
+}
